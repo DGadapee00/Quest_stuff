@@ -1,0 +1,20 @@
+[
+  {
+    "archive": "blue-eyes-duel-links",
+    "page": "https://models.spriters-resource.com/mobile/yugiohduellinks/asset/304698/",
+    "sha256": "249a49a943de03b27aa67dd22a43e022042e15c06ed863b83ad498cdf5180997",
+    "directory": "blue-eyes-duel-links"
+  },
+  {
+    "archive": "dark-magician-duel-links",
+    "page": "https://models.spriters-resource.com/mobile/yugiohduellinks/asset/304700/",
+    "sha256": "091f4372c1071d1b8cb8c12023e66a0cf47ce772b3d531540aecc871540b8bbd",
+    "directory": "dark-magician-duel-links"
+  },
+  {
+    "archive": "celtic-guardian-roses",
+    "page": "https://models.spriters-resource.com/playstation_2/yugiohtheduelistsoftheroses/asset/478114/",
+    "sha256": "b4561f518f5709dd52658f732eabec60618b7bdb124b4eba16d7cefffde93ae8",
+    "directory": "celtic-guardian"
+  }
+]
